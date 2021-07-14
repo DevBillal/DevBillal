@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: Computers fascinate me more than humans !
 
-- 📫 How to reach me: [Billal Hossan](https://www.facebook.com/dev.billal.8826/) ;  
+- 📫 How to reach me: [Billal Hossan](https://www.facebook.com/Billal.py/) ;  
 
 
 <br>
