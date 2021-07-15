@@ -67,7 +67,7 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevBillal&repo=Al-Jazeera-facebook-page)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevBillal&theme=tokyonight&repo=Al-Jazeera-facebook-page)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- <p align="center">
