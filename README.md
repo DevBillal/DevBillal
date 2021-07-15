@@ -82,9 +82,7 @@
 
 <div align="center">
   <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ayushparikh-code&column=7"/>
-  </a>
+https://github-profile-trophy.vercel.app/?username=DevBillal-ma&column=3&margin-w=15&margin-h=15
 </div>
 
 ---
