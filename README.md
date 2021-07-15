@@ -112,10 +112,10 @@
 </p> -->
 <br>
 
-
+<!-- 
 <div align="center">
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ayushparikh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayushparikh" /></a></p>
-</div>
+</div> -->
 <br>
 <h3 align="right">👋 Have the Best Day you can 🌈</h3>
