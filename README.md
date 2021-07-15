@@ -63,7 +63,7 @@
 ## 📊 My Github Stats
 [![Billal's GitHub stats]
 (https://github-readme-stats.vercel.app/api?username=DevBillal&count_private=true&show_icons=true&theme=tokyonight
-)]
+)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayushparikh-code&show_icons=true&theme=tokyonight" />
