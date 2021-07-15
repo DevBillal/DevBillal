@@ -61,12 +61,13 @@
 <br>
 
 ## 📊 My Github Stats
-<p align="center">
-  <img width="48%" src="[![Billal's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevBillal)](https://github.com/anuraghazra/github-readme-stats)
-" />
+[![Billal's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevBillal)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayushparikh-code&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushparikh-code&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushparikh-code&theme=tokyonight" align="center" />
-</p>
+</p> -->
 
 <details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
 
