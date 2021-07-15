@@ -70,17 +70,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevBillal&theme=tokyonight&repo=Al-Jazeera-facebook-page)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!-- <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayushparikh-code&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushparikh-code&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushparikh-code&theme=tokyonight" align="center" />
-</p> -->
-
 <details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DevBillal&row=2&column=3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![🏆 Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=DevBillal&row=2&column=3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -101,10 +95,7 @@
 -->
 
 <div align="center">
- 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ayush-Parikh Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZEVXbLZ52XmnySJg)</div><br>
-<div align="center">
+
 
 ## Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
@@ -116,9 +107,9 @@
 <br></div>
 
 
-<p align="center">
+<!-- <p align="center">
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
-</p>
+</p> -->
 <br>
 
 
