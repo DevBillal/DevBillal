@@ -68,6 +68,8 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevBillal&theme=tokyonight&repo=Al-Jazeera-facebook-page)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevBillal&theme=tokyonight&repo=i-robot)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevBillal&theme=tokyonight&repo=portfolio)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
