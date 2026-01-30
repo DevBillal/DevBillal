@@ -4,16 +4,16 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/DevBillal/DevBillal/blob/master/coding-freak%20(1).gif">
 
-## 🙋‍♂️ About Me
-- 💻 I’m currently working on something cool :wink: ;
+##  About Me
+- I’m currently working on something cool :wink: ;
 
 - <img src="https://github.com/DevBillal/DevBillal/blob/master/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
 
-- 💬 Ask me about anything, I am happy to help ;
+- Ask me about anything, I am happy to help ;
 
-- ⚡ Fun fact: Computers fascinate me more than humans !
+- Fun fact: Computers fascinate me more than humans !
 
-- 📫 How to reach me: [Billal Hossan](https://www.facebook.com/Billal.py/) ;  
+- How to reach me: [Billal Hossan](https://www.facebook.com/Billal.py/) ;  
 
 
 <br>
@@ -42,34 +42,6 @@
   </a>
 </p>
 <br>
-
-## 📊 My Github Stats
-[![Billal's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevBillal&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/DevBillal/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBillal&theme=tokyonight)](https://github.com/DevBillal/github-readme-stats)
-
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevBillal&theme=tokyonight&repo=Al-Jazeera-facebook-page)](https://github.com/DevBillal/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevBillal&theme=tokyonight&repo=i-robot)](https://github.com/DevBillal/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevBillal&theme=tokyonight&repo=portfolio)](https://github.com/DevBillal/github-readme-stats)
-
-
-<details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
-
-
-[![🏆 Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=DevBillal&row=2&column=3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
-<!---
-[![Ayush Parikh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayushparikh-code&theme=dracula&area=true)](https://github.com/Ayushparikh-code)
-<br>
-
-
-
-
 
 <br><details> <summary align="center"> </samp></summary>
 <p align="left">
@@ -103,6 +75,7 @@
 </div> -->
 <br>
 <h3 align="right">👋 Have the Best Day you can </h3>
+
 
 
 
