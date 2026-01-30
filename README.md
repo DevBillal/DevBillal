@@ -7,7 +7,7 @@
 ##  About Me
 - I’m currently working on something cool :wink: ;
 
-- <img src="https://github.com/DevBillal/DevBillal/blob/master/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
+- I’m looking to collaborate on **Open-Source Projects**
 
 - Ask me about anything, I am happy to help ;
 
@@ -75,6 +75,7 @@
 </div> -->
 <br>
 <h3 align="right">👋 Have the Best Day you can </h3>
+
 
 
 
