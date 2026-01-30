@@ -44,15 +44,15 @@
 <br>
 
 ## 📊 My Github Stats
-[![Billal's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevBillal&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBillal&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Billal's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevBillal&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/DevBillal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBillal&theme=tokyonight)](https://github.com/DevBillal/github-readme-stats)
 
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevBillal&theme=tokyonight&repo=Al-Jazeera-facebook-page)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevBillal&theme=tokyonight&repo=i-robot)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevBillal&theme=tokyonight&repo=portfolio)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevBillal&theme=tokyonight&repo=Al-Jazeera-facebook-page)](https://github.com/DevBillal/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevBillal&theme=tokyonight&repo=i-robot)](https://github.com/DevBillal/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevBillal&theme=tokyonight&repo=portfolio)](https://github.com/DevBillal/github-readme-stats)
 
 
 <details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
@@ -88,7 +88,7 @@
 </div>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ayushparikh-code}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{DevBillal}/count.svg" /></p> 
 <br></div>
 
 
@@ -103,5 +103,6 @@
 <p><a href="https://www.buymeacoffee.com/ayushparikh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayushparikh" /></a></p>
 </div> -->
 <br>
-<h3 align="right">👋 Have the Best Day you can 🌈</h3>
+<h3 align="right">👋 Have the Best Day you can </h3>
+
 
