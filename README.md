@@ -57,13 +57,12 @@
 
 <details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
 
----
 
 [![🏆 Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=DevBillal&row=2&column=3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
----
+
 <!---
 [![Ayush Parikh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayushparikh-code&theme=dracula&area=true)](https://github.com/Ayushparikh-code)
 <br>
@@ -104,5 +103,6 @@
 </div> -->
 <br>
 <h3 align="right">👋 Have the Best Day you can </h3>
+
 
 
