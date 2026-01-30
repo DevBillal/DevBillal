@@ -13,7 +13,7 @@
 
 - Fun fact: Computers fascinate me more than humans !
 
-- How to reach me: [Billal Hossan]([https://www.facebook.com/Billal.js.bd]) ;  
+- How to reach me: [Billal Hossan]([https://www.facebook.com/Billal.js.bd]);  
 
 
 <br>
